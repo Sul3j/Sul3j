@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Szymon
-#### I'm .NET developer
+#### I'm Web Developer
 
 I've been interested in programming since 2018. 
 I'm keen on using new technologies and tools. 
