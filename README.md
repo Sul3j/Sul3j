@@ -6,11 +6,10 @@ I'm keen on using new technologies and tools.
 I'm doing my Bachelor of Engineering degree (I major in computer science) and in free time I develop some projects with [sitero.net](https://sitero.net).
 
 #### SKILLS: 
-
-LANGUAGES:  C# / TypeScript / JavaScript\
-FRAMEWORKS:  .NET CORE / Angular\
-TOOLS:  SCSS / GSAP / GIT\
-DATABASES:  SQL Server / PostgreSQL / MongoDB
+***Languages:***  C# / TypeScript / JavaScript\
+***Frameworks:***  .NET CORE / Angular\
+***Tools:***  SCSS / GSAP / GIT\
+***Databases:***  SQL Server / PostgreSQL / MongoDB
 
 - 🔭 I’m working on new projects. 
 - 🌱 I learn to create fullstack applications using .NET Core and the Angular framework.
