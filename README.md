@@ -16,3 +16,5 @@ I'm doing my Bachelor of Engineering degree (I major in computer science) and in
 - 📫 You can reach me with:\
      [E-mail address](mailto:szymon.sul3jczak@gmail.com)\
      [LinkedIn profile](https://www.linkedin.com/in/szymon-sulejczak-1984451b7/)
+     
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amananku26&layout=compact&hide_border=true)
