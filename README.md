@@ -8,7 +8,7 @@ I'm doing my Bachelor of Engineering degree (I major in computer science) and in
 #### SKILLS: 
 
 LANGUAGES:  C# / TypeScript / JavaScript\
-FRAMEWORKS:  .NET CORE / Angular
+FRAMEWORKS:  .NET CORE / Angular\
 TOOLS:  SCSS / GSAP / GIT\
 DATABASES:  SQL Server / PostgreSQL / MongoDB
 
