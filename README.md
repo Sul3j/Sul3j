@@ -7,10 +7,10 @@ I'm doing my Bachelor of Engineering degree (I major in computer science) and in
 
 #### SKILLS: 
 
-LANGUAGES: C# / TYPESCRIPT / JAVASCRIPT\
-FRAMEWORKS: .NET CORE / ANGULAR\
-TOOLS: SCSS / GSAP / GIT\
-DATABASES: SQL Server / POSTGRESQL / MONGODB\
+LANGUAGES:  C# / TypeScript / JavaScript\
+FRAMEWORKS:  .NET CORE / Angular
+TOOLS:  SCSS / GSAP / GIT\
+DATABASES:  SQL Server / PostgreSQL / MongoDB
 
 - 🔭 I’m working on new projects. 
 - 🌱 I learn to create fullstack applications using .NET Core and the Angular framework.
