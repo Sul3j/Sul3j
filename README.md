@@ -17,5 +17,5 @@ I'm doing my Bachelor of Engineering degree (I major in computer science) and in
      [E-mail address](mailto:szymon.sul3jczak@gmail.com)\
      [LinkedIn profile](https://www.linkedin.com/in/szymon-sulejczak-1984451b7/)
      
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sul3j&repo=github-readme-stats&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sul3j&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
