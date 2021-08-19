@@ -18,4 +18,6 @@ I'm doing my Bachelor of Engineering degree (I major in computer science) and in
      [LinkedIn profile](https://www.linkedin.com/in/szymon-sulejczak-1984451b7/)
      
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sul3j&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sul3j&theme=dark)](https://git.io/streak-stats)
+
 
