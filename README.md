@@ -35,7 +35,7 @@ I'm doing my Bachelor of Engineering degree (I major in computer science) and in
 ## Statistics
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sul3j&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sul3j&theme=dark)](https://git.io/streak-stats)
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Sul3j&bg_color=181414)](https://github.com/ashutosh00710/github-readme-activity-graph) 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Sul3j&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph) 
 
 
 
