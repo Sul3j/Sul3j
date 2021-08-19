@@ -1,5 +1,5 @@
 # Hi there 👋, my name is Szymon
-### I'm Web Developer
+## I'm Web Developer
 
 
 ## About me
