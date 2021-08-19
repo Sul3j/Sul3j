@@ -1,9 +1,14 @@
 # Hi there 👋, my name is Szymon
-## I'm Web Developer
+#### I'm Web Developer
+</br>
 
+## About me
 I've been interested in programming since 2018. 
 I'm keen on using new technologies and tools. 
 I'm doing my Bachelor of Engineering degree (I major in computer science) and in free time I develop some projects with [sitero.net](https://sitero.net).
+
+##### I'm a member of sitero.net collective.
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/N1cKHNY/Logotype.png" alt="Logotype" border="0"></a>
 
 <defs>
 <linearGradient id="paint0_linear" x1="565.235" y1="-53.2795" x2="571.822" y2="-2.61032" gradientUnits="userSpaceOnUse">
@@ -28,8 +33,13 @@ I'm doing my Bachelor of Engineering degree (I major in computer science) and in
  <a href="https://www.linkedin.com/in/szymon-sulejczak-1984451b7/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> </br>
 ![Discord](https://img.shields.io/badge/%3C0787%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)  
 ## Statistics
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sul3j&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sul3j&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sul3j&theme=dark)](https://git.io/streak-stats)
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Sul3j&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph) 
+
+
+
+
+
 
 
