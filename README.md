@@ -1,6 +1,6 @@
 # Hi there 👋, my name is Szymon
 ### I'm Web Developer
-</br>
+
 
 ## About me
 I've been interested in programming since 2018. 
