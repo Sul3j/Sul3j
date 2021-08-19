@@ -1,5 +1,5 @@
 # Hi there 👋, my name is Szymon
-#### I'm Web Developer
+### I'm Web Developer
 </br>
 
 ## About me
@@ -7,7 +7,7 @@ I've been interested in programming since 2018.
 I'm keen on using new technologies and tools. 
 I'm doing my Bachelor of Engineering degree (I major in computer science) and in free time I develop some projects with [sitero.net](https://sitero.net).
 
-##### I'm a member of sitero.net collective.
+### I'm a member of sitero.net collective.
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/N1cKHNY/Logotype.png" alt="Logotype" border="0"></a>
 
 <defs>
