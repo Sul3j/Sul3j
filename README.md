@@ -34,10 +34,10 @@ I'm doing my Bachelor of Engineering degree (I major in computer science) and in
 ![Discord](https://img.shields.io/badge/%3C0787%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)  
 ## Statistics
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sul3j&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sul3j&show_icons=true&theme=dark)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sul3j&theme=dark)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sul3j&show_icons=true&theme=dark)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?user=Sul3j&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Sul3j&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph) 
+
 
 
 
