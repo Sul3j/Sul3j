@@ -36,7 +36,7 @@ I'm doing my Bachelor of Engineering degree (I major in computer science) and in
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sul3j&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sul3j&show_icons=true&theme=dark)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sul3j&theme=dark)](https://git.io/streak-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sul3j)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sul3j)](https://github.com/anuraghazra/github-readme-stats) 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Sul3j&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph) 
 
 
