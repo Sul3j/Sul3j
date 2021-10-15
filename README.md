@@ -29,8 +29,8 @@ I'm doing my Bachelor of Engineering degree (I major in computer science) and in
 #### Databases: </br></br> ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## Contacts
-<a href="mailto:szymon.sul3jczak@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>  </br>
- <a href="https://www.linkedin.com/in/szymon-sulejczak-1984451b7/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> </br>
+<a href="mailto:szymon.sul3jczak@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>  
+ <a href="https://www.linkedin.com/in/szymon-sulejczak-1984451b7/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> 
 ![Discord](https://img.shields.io/badge/%3C0787%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)  
 ## Statistics
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sul3j&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
