@@ -18,6 +18,7 @@ I'm doing my Bachelor of Engineering degree (I major in computer science) and in
 <a href="https://www.linkedin.com/in/szymon-sulejczak-1984451b7/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> 
 ![Discord](https://img.shields.io/badge/%3C0787%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 #### visit my portfolio <a href="https://szymonsulejczak.com">here</a>
+
 ## Statistics
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sul3j&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sul3j&show_icons=true&theme=dark)
